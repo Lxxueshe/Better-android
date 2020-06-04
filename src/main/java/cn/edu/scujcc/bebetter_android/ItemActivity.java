@@ -16,7 +16,7 @@ import androidx.annotation.Nullable;
 
 public class ItemGroup extends FrameLayout {
 
-    private LinearLayout itemGroupLayout; //组合控件的布局
+    private LinearLayout itemGroupLayout; //组合控件
     private TextView titleTv; //标题
     private TextView contentEdt; //输入框
     private ImageView jtRightIv; //向右的箭头
