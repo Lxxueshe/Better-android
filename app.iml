@@ -25,7 +25,6 @@
       </configuration>
     </facet>
   </component>
-  //gsgdygusaguyaguax
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
     <output url="file://$MODULE_DIR$/build/intermediates/javac/debug/classes" />
     <output-test url="file://$MODULE_DIR$/build/intermediates/javac/debugUnitTest/classes" />
